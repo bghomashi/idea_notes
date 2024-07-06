@@ -4,7 +4,7 @@ Idleon but with races
 - race items go to main mode character
 	- scaling by how far you make it in the race
 - prestige reset a character
-	- 
+	- boosts base 
 
 
 
