@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "76f50c4834c4ab3c",
+        "id": "925256ff23e43564",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa9adf8273612a4",
+            "id": "8ee4f53e4650643b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b9a74a8d7ba825",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dashboard.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +140,14 @@
   },
   "active": "fa9af7977244f029",
   "lastOpenFiles": [
-    "Zelda.md",
     "Dashboard.md",
+    "Crypto Website/Analysis.md",
+    "Online Casino/Analysis.md",
+    "Podcast/Analysis.md",
+    "Youtube/Analysis.md",
+    "Youtube betting/Analysis.md",
+    "L Glucose/Analysis.md",
+    "Zelda.md",
     "L Glucose",
     "Online Casino",
     "Youtube betting",
