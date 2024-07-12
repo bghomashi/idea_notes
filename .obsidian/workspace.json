@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zelda.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zelda.md",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zelda.md",
+                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zelda.md"
+                "file": "Dashboard.md"
               }
             }
           }
@@ -159,9 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7b9a74a8d7ba825",
+  "active": "fa9af7977244f029",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Zelda.md"
+    "Zelda.md",
+    "Dashboard.md",
+    "L Glucose",
+    "Online Casino",
+    "Youtube betting",
+    "Crypto Website",
+    "Youtube",
+    "Podcast"
   ]
 }
